@@ -3,7 +3,7 @@
  - 🌱 I’m currently learning Web Development. 
  - 👯 I’m looking to collaborate on real world projects to enhance my skill set.
  - 🤔 I’m looking for help with connecting / networking in Web Develpoment industry.
- - 💬 Ask me about my learning journey and my career change from Federal Government Employee (Operations Superintendent - 14 years) to aspiring Web Developer.
+ - 💬 Ask me about my learning journey and my career change to become a Web Developer.
  - 📫 How to reach me: 
    * Email: enuke4@gmail.com
    * Celphone #: (306) 514-2221
