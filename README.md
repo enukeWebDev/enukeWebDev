@@ -5,7 +5,7 @@
  - 🤔 I’m looking for help with connecting / networking in Web Develpoment industry.
  - 💬 Ask me about my learning journey and my career change to become a Web Developer.
  - 📫 How to reach me: 
-   * Email: enuke4@gmail.com
+   * Email: ericknuque23@gmail.com
    * Celphone #: (306) 514-2221
  - 😄 Pronouns: He
  - ⚡ Fun fact:
