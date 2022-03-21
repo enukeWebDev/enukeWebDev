@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently attending the Lighthouse Labs Bootcamp. 
+- 🔭 I recently graduated at Lighthouse Labs Full Stack Web Development Bootcamp. 
  - 🌱 I’m currently learning Web Development. 
  - 👯 I’m looking to collaborate on real world projects to enhance my skill set.
  - 🤔 I’m looking for help with connecting / networking in Web Develpoment industry.
