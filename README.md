@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I recently graduated at Lighthouse Labs Full Stack Web Development Bootcamp. 
- - 🌱 I’m currently learning Web Development. 
- - 👯 I’m looking to collaborate on real world projects to enhance my skill set.
- - 🤔 I’m looking for help with connecting / networking in Web Develpoment industry.
+- 🔭 Diploma Full Stack Web Development Bootcamp - Feb. 2022 Graduate - Lighthouse Labs 
+ - 🌱 I'm currently looking for an opportunity as Junior Full Stack Web Developer.
  - 💬 Ask me about my learning journey and my career change to become a Web Developer.
  - 📫 How to reach me: 
    * Email: ericknuque23@gmail.com
