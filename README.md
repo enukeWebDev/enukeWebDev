@@ -29,7 +29,7 @@ const jrWebDev = {
 
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+⭐️ From [enukeWebDev](https://github.com/enukeWebDev)
 <!--
 **enukeWebDev/enukeWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
