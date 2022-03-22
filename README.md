@@ -1,15 +1,35 @@
-### Hi there 👋
-- 🔭 Diploma Full Stack Web Development Bootcamp - Feb. 2022 Graduate - Lighthouse Labs 
- - 🌱 I'm currently looking for an opportunity as Junior Full Stack Web Developer.
- - 💬 Ask me about my learning journey and my career change to become a Web Developer.
- - 📫 How to reach me: 
-   * Email: ericknuque23@gmail.com
-   * Celphone #: (306) 514-2221
- - 😄 Pronouns: He
- - ⚡ Fun fact:
-   * LOVE running & food
 
-###
+
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+```js
+import JuniorWebDeveloper from 'roderick-nuque';
+
+const jrWebDev = {
+  name: 'Roderick Nuque',
+  title: 'Junior Web Developer',
+  contacts: [306-514-2221, 'ericknuque23@gmail.com'],
+  location: 'Saskatoon, SK Canada',
+  education: [{
+      Diploma: 'Full Stack Web Development', 
+      Degree: 'Bachelors in Engineering'
+  ]},
+  skills: [{
+      frontend: ['Javascript', 'React', 'jQuery', 'Ruby on Rails', 'HTML', 'CSS', 'Bootstrap'],
+      backend: ['ExpressJS', 'NodeJS', 'MongoDB', 'PostgreSGQL', 'SQL', 'mySQL'],
+      other: ['Git/Github', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman']
+  ]},
+  softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication                 Skills', 'Team Player', 'Always Excited to Learn New Things']                  
+ }
+ 
+ console.log('I'm open to a Junior Web Developer job - please contact me!');
+
+```
+
+⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
 <!--
 **enukeWebDev/enukeWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
