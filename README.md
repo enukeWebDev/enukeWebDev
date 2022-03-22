@@ -22,7 +22,7 @@ const jrWebDev = {
       backend: ['ExpressJS', 'NodeJS', 'MongoDB', 'PostgreSGQL', 'SQL', 'mySQL'],
       other: ['Git/Github', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman']
   ]},
-  softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication                 Skills', 'Team Player', 'Always Excited to Learn New Things']                  
+  softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication Skills', 'Team Player', 'Always Excited to Learn New Things']                  
  }
  
  console.log("I'm open to a Junior Web Developer job - please contact me!");
