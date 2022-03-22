@@ -25,7 +25,7 @@ const jrWebDev = {
   softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication                 Skills', 'Team Player', 'Always Excited to Learn New Things']                  
  }
  
- console.log('I'm open to a Junior Web Developer job - please contact me!');
+ console.log("I'm open to a Junior Web Developer job - please contact me!");
 
 ```
 
