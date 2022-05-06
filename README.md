@@ -19,8 +19,8 @@ const jrWebDev = {
   ]},
   skills: [{
       frontend: ['Javascript', 'React', 'jQuery', 'Ruby on Rails', 'HTML', 'CSS', 'Bootstrap'],
-      backend: ['ExpressJS', 'NodeJS', 'MongoDB', 'PostgreSGQL', 'SQL', 'mySQL'],
-      other: ['Git/Github', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman']
+      backend: ['Python', 'ExpressJS', 'NodeJS', 'MongoDB', 'PostgreSGQL', 'SQL', 'mySQL'],
+      other: ['Git/Github', 'Jupyter', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman']
   ]},
   softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication Skills', 'Team Player', 'Always Excited to Learn New Things']                  
  }
