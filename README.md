@@ -8,7 +8,7 @@
 ```js
 import Full Stack Software Developer from 'roderick-nuque';
 
-const jrWebDev = {
+const fullStackSoftwareDev = {
   name: 'Roderick Nuque',
   title: 'Full Stack Software Developer',
   contacts: [306-514-2221, 'ericknuque23@gmail.com'],
