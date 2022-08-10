@@ -6,26 +6,26 @@
 </p>
 
 ```js
-import JuniorWebDeveloper from 'roderick-nuque';
+import Full Stack Software Developer from 'roderick-nuque';
 
 const jrWebDev = {
   name: 'Roderick Nuque',
-  title: 'Junior Web Developer',
+  title: 'Full Stack Software Developer',
   contacts: [306-514-2221, 'ericknuque23@gmail.com'],
   location: 'Saskatoon, SK Canada',
   education: [{
-      Diploma: 'Full Stack Web Development', 
+      Diploma: 'Full Stack Software/Web Development', 
       Degree: 'Bachelors in Engineering'
   ]},
   skills: [{
       frontend: ['Javascript', 'React', 'jQuery', 'Ruby on Rails', 'HTML', 'CSS', 'Bootstrap'],
       backend: ['Python', 'ExpressJS', 'NodeJS', 'MongoDB', 'PostgreSGQL', 'SQL', 'mySQL'],
-      other: ['Git/Github', 'Jupyter', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman']
+      other: ['Git/Github', 'Jupyter', 'NPM Package', 'React Component Libraries', 'Responsive Web Design', Web Dev Tools', 'JEST', 'Storybook', 'RSpec', 'Postman', GIS]
   ]},
   softskills: ['Passionate', 'Driven', 'Exceptional Time Management Skills', 'Fast Learner', 'Love to Solve Real World Problem', 'Excellent Communication Skills', 'Team Player', 'Always Excited to Learn New Things']                  
  }
  
- console.log("I'm open to a Junior Web Developer job - please contact me!");
+ console.log("I'm open to a Full Stack Software Developer job - please contact me!");
 
 ```
 
